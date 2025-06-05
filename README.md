@@ -8,3 +8,6 @@ In recent years, society has shown a growing tendency toward seeking a comfortab
 
 The aim of this robot works in this direction, his purpose is to carry the stuff for you.
 
+![Img_camp](https://github.com/user-attachments/assets/4277d363-c080-4b36-bdae-b15d1958d420)
+
+

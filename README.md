@@ -38,4 +38,4 @@ Upcoming features:
  ![Img_camp](https://github.com/user-attachments/assets/4277d363-c080-4b36-bdae-b15d1958d420)
 
 
-© 2025 FollowBot Robotics
+© 2025 Team 2

@@ -5,7 +5,7 @@ Team 2
 
 In recent years, society has shown a growing tendency toward seeking a comfortable lifestyle and that implies efficiency, and automation not only in industry but particularly in day-to-day life tasks. For this to come into fruition, a very close link exists between that and the increasing integration of technology, especially robotics used to simplify tasks, reduce physical effort, and enhance processes. Robots are no longer considered to be confined to industrial environments, since they are progressively being adapted for personal, domestic, and service-oriented applications.  
 
-This robot is the smart autonomous robot designed to follow you anywhere and carry your stuff — so you can move freely and effortlessly.
+This robot is a smart autonomous robot designed to follow you anywhere and carry your stuff, so you can move freely and effortlessly.
 
 Whether you're:
 - Navigating a busy airport ✈️  
